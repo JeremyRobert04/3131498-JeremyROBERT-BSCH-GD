@@ -8,6 +8,10 @@ TagManager:
   - CheckPoint
   - SpawnPoint
   - Enemy
+  - GameUI
+  - SpawnPointA
+  - SpawnPointB
+  - InGameUI
   layers:
   - Default
   - TransparentFX
