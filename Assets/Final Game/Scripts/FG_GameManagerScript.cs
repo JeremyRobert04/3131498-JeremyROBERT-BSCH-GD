@@ -5,10 +5,10 @@ using UnityEngine;
 
 public class FG_GameManagerScript : MonoBehaviour
 {
-    public int health;
-    public int money;
-    public int maxWave = 5;
-    public int currentWave;
+    public int health = 20;
+    public int money = 120;
+    public int maxWave = 7;
+    public int currentWave = 0;
     public float timeBetweenWave = 11f;
     public float remainingTime;
 

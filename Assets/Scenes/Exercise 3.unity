@@ -1796,7 +1796,7 @@ PrefabInstance:
       objectReference: {fileID: 1810957314, guid: 349673158b2d59a4f8c99884f62d574b, type: 3}
     - target: {fileID: 5358465341887733913, guid: 97ec2d4f7892258459038b0074009143, type: 3}
       propertyPath: maxSpeed
-      value: 15
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 5358465341887733913, guid: 97ec2d4f7892258459038b0074009143, type: 3}
       propertyPath: jumpForce
@@ -1804,11 +1804,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5358465341887733913, guid: 97ec2d4f7892258459038b0074009143, type: 3}
       propertyPath: acceleration
-      value: 8
+      value: 70
       objectReference: {fileID: 0}
     - target: {fileID: 5602869866326687196, guid: 97ec2d4f7892258459038b0074009143, type: 3}
       propertyPath: m_Name
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 7872447164491810039, guid: 97ec2d4f7892258459038b0074009143, type: 3}
+      propertyPath: m_Mass
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 7872447164491810039, guid: 97ec2d4f7892258459038b0074009143, type: 3}
       propertyPath: m_LinearDrag
